@@ -20,10 +20,10 @@ const Section6 = () => {
                       <Image src={User1} className="img-fluid" alt="brand1" />
                     </div>
                     <p>
-                      " Etiam sapien sem at sagittis congue augue massa varius
+                       Etiam sapien sem at sagittis congue augue massa varius
                       sodales sapien undo tempus dolor egestas magna suscipit
                       magna tempus aliquet porta sodales augue suscipit luctus
-                      neque "
+                      neque 
                     </p>
                     <div className={`mb-2 ${style.itemRating}`}>
                       <i className="bi bi-star-fill"></i>
@@ -41,10 +41,10 @@ const Section6 = () => {
                       <Image src={User2} className="img-fluid" alt="brand1" />
                     </div>
                     <p>
-                      " Etiam sapien sem at sagittis congue augue massa varius
+                       Etiam sapien sem at sagittis congue augue massa varius
                       sodales sapien undo tempus dolor egestas magna suscipit
                       magna tempus aliquet porta sodales augue suscipit luctus
-                      neque "
+                      neque 
                     </p>
                     <div className={`mb-2 ${style.itemRating}`}>
                       <i className="bi bi-star-fill"></i>
@@ -62,10 +62,10 @@ const Section6 = () => {
                       <Image src={User3} className="img-fluid" alt="brand1" />
                     </div>
                     <p>
-                      " Etiam sapien sem at sagittis congue augue massa varius
+                       Etiam sapien sem at sagittis congue augue massa varius
                       sodales sapien undo tempus dolor egestas magna suscipit
                       magna tempus aliquet porta sodales augue suscipit luctus
-                      neque "
+                      neque 
                     </p>
                     <div className={`mb-2 ${style.itemRating}`}>
                       <i className="bi bi-star-fill"></i>
@@ -83,10 +83,10 @@ const Section6 = () => {
                       <Image src={User4} className="img-fluid" alt="brand1" />
                     </div>
                     <p>
-                      " Etiam sapien sem at sagittis congue augue massa varius
+                       Etiam sapien sem at sagittis congue augue massa varius
                       sodales sapien undo tempus dolor egestas magna suscipit
                       magna tempus aliquet porta sodales augue suscipit luctus
-                      neque "
+                      neque 
                     </p>
                     <div className={`mb-2 ${style.itemRating}`}>
                       <i className="bi bi-star-fill"></i>

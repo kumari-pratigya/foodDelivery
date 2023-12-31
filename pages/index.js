@@ -26,7 +26,7 @@ export default function Home() {
   src="https://cdn.jsdelivr.net/npm/react-bootstrap@next/dist/react-bootstrap.min.js"
   crossorigin></Script>
 
-<Script>var Alert = ReactBootstrap.Alert;</Script>
+{/* <Script>var Alert = ReactBootstrap.Alert;</Script> */}
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
