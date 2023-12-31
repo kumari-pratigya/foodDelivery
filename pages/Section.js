@@ -32,9 +32,9 @@ const Section = () => {
                 normal distribution of letters, as opposed to using 'Content
                 here, content here
               </p>
-              <Link href="/" className="btn order_now">
+              <link href="/" className="btn order_now">
                 Order now
-              </Link>
+              </link>
             </div>
           </Col>
         </Row>
