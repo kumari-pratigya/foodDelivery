@@ -4,6 +4,7 @@ import style from "../styles/Section.module.css";
 import { Container, Row, Col } from "react-bootstrap";
 import Burger from "../public/assets/hero/hero-2.png";
 import Link from "next/link";
+
 const Section = () => {
   return (
     <section className={style.hero_section}>
