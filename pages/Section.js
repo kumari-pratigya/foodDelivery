@@ -26,11 +26,11 @@ const Section = () => {
               <h1 className="text-white">New Burgers</h1>
               <h2 className="text-white">with Onion</h2>
               <p className="text-white pt-2 pb-4">
-                it is a long established fact that a reader will be distracted
-                by the readable content of a page when looking at its layout.
-                The point of using Lorem Ipsum is that it has a more-or-less
-                normal distribution of letters as opposed to using 'Content here
-                content here
+               it is a long established fact that a reader will be distracted
+  by the readable content of a page when looking at its layout.
+  The point of using Lorem Ipsum is that it has a more-or-less
+  normal distribution of letters as opposed to using &rsquo;Content here
+  content here
               </p>
               <Link href="/" className="btn order_now">
                 Order now
