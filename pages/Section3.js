@@ -9,7 +9,7 @@ import Image5 from "../public/assets/menu/burger-15.jpg";
 import Image6 from "../public/assets/menu/burger-16.jpg";
 import Image7 from "../public/assets/menu/burger-17.jpg";
 import Image8 from "../public/assets/menu/burger-18.jpg";
-import Card from "./Card";
+import Card from "../Components/Card";
 import Link from "next/link";
 
 const Section3 = () => {
